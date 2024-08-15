@@ -1,0 +1,75 @@
+@media only screen and (max-width:1340px) {
+    .cards-section {
+      justify-content: space-evenly;
+    }
+    .second-section {
+        margin:30px 50px ;
+    }
+}
+@media only screen and (max-width:805px){
+    .navbar {
+        padding:10px 5% !important ;
+    }
+    .card {
+        width: 18rem !important;
+    }
+    .card button {
+        width: 13rem;
+    }
+}
+@media only screen and (max-width:675px) {
+.card {
+    width: 100% !important;
+    text-align: center !important;
+}
+.card button {
+    width: 60%;
+}
+.information-form h1 {
+    font-size: 35px;
+}
+.mcqs {
+    padding: 20px 20px 20px 0px;
+}
+}
+@media only screen and (max-width:460px){
+.navbar img {
+    height: 40px ;
+}
+.cards-section {
+    margin: 0px 20px !important;
+}
+.dropdown img {
+    height: 30px;
+}
+.second-section {
+    margin:20px ;
+}
+.welcome-info h1{
+    font-size: 25px;
+}
+.welcome-info p {
+    font-size: 15px;
+}
+.information-form h1 {
+    font-size: 30px;
+}
+.information-form p {
+    font-size: 15px;
+    padding-top: 7px;
+}
+.submit-btn {
+height: 35px;
+width: 100px;
+font-size: 16px !important;
+}
+.mcqs-section{
+    margin: 30px 10px 30px 10px;
+}
+.mcqs-section h1 {
+    font-size: 30px;
+}
+.mcqs {
+    font-size: 16px;
+}
+}
